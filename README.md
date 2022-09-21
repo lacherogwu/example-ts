@@ -12,4 +12,5 @@ so if you will look at the current folder structure, the type of the use functio
 because we have `items.js` that exports `createItem()` and `users.js` that exports `sampleFunction()` and `getUser()`
 
 and the `use()` should give the following intellisense
+
 ![image](https://i.postimg.cc/MTMWJXyb/image.png)
