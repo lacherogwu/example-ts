@@ -13,4 +13,4 @@ because we have `items.js` that exports `createItem()` and `users.js` that expor
 
 and the `use()` should give the following intellisense
 
-![image](https://i.postimg.cc/MTMWJXyb/image.png)
+![Example](https://i.postimg.cc/MTMWJXyb/image.png)
